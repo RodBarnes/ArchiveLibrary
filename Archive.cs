@@ -3,7 +3,7 @@ using SevenZip;
 
 namespace Common
 {
-    public class Archive
+    public static class Archive
     {
         private static readonly string SEVENZIPLIBPATH = @".\SevenZipLib\7z.dll";
 
